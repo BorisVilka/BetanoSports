@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/drawable/corners.xml" value="0.4065" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.4065" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/activity_main.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/ball_item.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/fragment_balls.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/fragment_end.xml" value="0.5" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/fragment_first_game.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/fragment_score.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/fragment_second_game.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/fragment_start.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/pause_dialog.xml" value="0.5625" />
+        <entry key="..\:/Users/boris/StudioProjects/BenatoSports/app/src/main/res/layout/score_item.xml" value="0.490036231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

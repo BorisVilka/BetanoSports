@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.benatosports.game.StartFragment"
+        android:label="fragment_start"
+        tools:layout="@layout/fragment_start" />
+    <fragment
+        android:id="@+id/ballsFragment"
+        android:name="com.benatosports.game.BallsFragment"
+        android:label="fragment_balls"
+        tools:layout="@layout/fragment_balls" />
+    <fragment
+        android:id="@+id/fragmentScore"
+        android:name="com.benatosports.game.FragmentScore"
+        android:label="FragmentScore" />
+    <fragment
+        android:id="@+id/firstGameFragment"
+        android:name="com.benatosports.game.FirstGameFragment"
+        android:label="fragment_first_game"
+        tools:layout="@layout/fragment_first_game" />
+    <fragment
+        android:id="@+id/secondGameFragment"
+        android:name="com.benatosports.game.SecondGameFragment"
+        android:label="SecondGameFragment" />
+    <fragment
+        android:id="@+id/endFragment"
+        android:name="com.benatosports.game.EndFragment"
+        android:label="EndFragment" />
+</navigation>
